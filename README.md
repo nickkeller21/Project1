@@ -28,11 +28,13 @@ We then used linear regression to see if there was a correlation between a playe
 **Team Comparison:**  
 ![Rockets](Images/RocketsWL.png)
 ![OKC](Images/OKC_WL.png)  
-Rockets in general had higher number of wins than Thunders
-Both teams were a better away team
-Their records overall were similar
+Rockets in general had higher number of wins than Thunders  
+Both teams were a better away team  
+Their records overall were similar  
 
 **Player Comparison:**  
+Comparative analysis used career stats from Westbrook and Paul, merged them by Season and Age, matplotlib plots were used to support the analysis   
+
 Offense
 ![Assits Per Game](Images/PlayerAstPerGame.png)
 ![Turnovers Per Game](Images/TOVPerGame.png)  
