@@ -15,4 +15,4 @@
 **Data:** 
       NBA api stats.nba.com (no key needed)
       
-![Alt](Images/PlusMinusvsWin%.png)
+![PlusMinusvsWin%](Images/PlusMinusvsWin%.png)
