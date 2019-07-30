@@ -29,9 +29,9 @@ We then used linear regression to see if there was a correlation between a playe
 Offense
 ![Assits Per Game](Images/PlayerAstPerGame.png)
 ![Turnovers Per Game](Images/TOVPerGame.png)  
-![AstPerTurnover](Images/AstPerTurnover.png)
-![Points Per Minute](Images/PointsPerMinute.png)  
-![EFG](Images/EFG.png)  
+![AstPerTurnover](Images/AstPerTurnover.png)  
+![Points Per Minute](Images/PointsPerMinute.png)
+![EFG](Images/EFG.png)
 ![offense](Images/offense.png)  
 Defense  
 ![Rebounds](Images/Rebounds.png)
