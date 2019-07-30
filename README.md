@@ -26,13 +26,19 @@ We then used linear regression to see if there was a correlation between a playe
 ![Russell Westbrook](Images/RussellWestbrookMerge.png)  
 
 **Player Comparison:**  
-![AstPerTurnover](Images/AstPerTurnover.png)
-![Blocks](Images/Blocks.png)
-![Defense](Images/defense.png)
-![offense](Images/offense.png)
-![EFG](Images/EFG.png)
+Offense
 ![Assits Per Game](Images/PlayerAstPerGame.png)
-![Points Per Minute](Images/PointsPerMinute.png)
+![Turnovers Per Game](Images/TOVPerGame.png)  
+![AstPerTurnover](Images/AstPerTurnover.png)
+![Points Per Minute](Images/PointsPerMinute.png)  
+![EFG](Images/EFG.png)  
+![offense](Images/offense.png)  
+Offense  
 ![Rebounds](Images/Rebounds.png)
 ![Steals](Images/Steals.png)
-![Turnovers Per Game](Images/TOVPerGame.png)
+![Blocks](Images/Blocks.png)
+![Defense](Images/defense.png)
+
+
+
+
