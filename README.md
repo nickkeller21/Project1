@@ -16,7 +16,7 @@
       NBA api stats.nba.com (no key needed)
       
 ![PlusMinusvsWin](Images/PlusMinusvsWin.png)
-![PlusMinusvsWin](Images/CP_ast_per_tov_vs_team+-.png)![PlusMinusvsWin](Images/CP_efg%vsTeam+-.png)![PlusMinusvsWin](Images/CP_pts_per_48_vs_team+-.png)
-![PlusMinusvsWin](Images/PlusMinusvsWin.png)
+![Chris Paul](Images/ChrisPaulMerge.png)
+![Russell Westbrook](Images/RussellWestbrookMerge.png)
 ![PlusMinusvsWin](Images/PlusMinusvsWin.png)
 ![PlusMinusvsWin](Images/PlusMinusvsWin.png)
