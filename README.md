@@ -28,6 +28,10 @@ We then used linear regression to see if there was a correlation between a playe
 **Team Comparison:**  
 ![Rockets](Images/RocketsWL.png)
 ![OKC](Images/OKC_WL.png)  
+Rockets in general had higher number of wins than Thunders
+Both teams were a better away team
+Their records overall were similar
+
 **Player Comparison:**  
 Offense
 ![Assits Per Game](Images/PlayerAstPerGame.png)
