@@ -49,9 +49,9 @@ Defense
 ![Defense](Images/defense.png)
 
 ## Conclusions
-Westbrook fills a different type of role than Chris Paul does because of how different the 2 players are.  
-At this point in their careers, Westbrook provides the most value based on his statistics on the offense and defensive side of the ball 
-Westbrook regularly scores more points and rebounds more balls in a game than Chris Paul, which provides more opportunities for his team to score.  
-The statistical analysis shows us that there are many variables in a basketball game that can make it impossible to quantify players against players that are in different situations on their team.
+1. Westbrook fills a different type of role than Chris Paul does because of how different the 2 players are.  
+2. At this point in their careers, Westbrook provides the most value based on his statistics on the offense and defensive side of the ball 
+3. Westbrook regularly scores more points and rebounds more balls in a game than Chris Paul, which provides more opportunities for his team to score.  
+4. The statistical analysis shows us that there are many variables in a basketball game that can make it impossible to quantify players against players that are in different situations on their team.
 
 
