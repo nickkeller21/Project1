@@ -22,7 +22,7 @@ We then used linear regression to see if there was a correlation between a playe
 ![PlusMinusvsWin](Images/PlusMinusvsWin.png)  
 **Chris Paul:**  
 ![Chris Paul](Images/ChrisPaulMerge.png)  
-**Russell Westbrook:   
+**Russell Westbrook:**   
 ![Russell Westbrook](Images/RussellWestbrookMerge.png)  
 
 
