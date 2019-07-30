@@ -16,7 +16,8 @@
       NBA api stats.nba.com (no key needed)  
       This data is recorded by the NBA, so it is therefore the most accurate
 
-      
+**Analysis:** 
+1. Linear Regression was used to first find a correlation between a common player stat (Plus Minus(+/-))  and a players Win Percentage since winning is the goal
 ![PlusMinusvsWin](Images/PlusMinusvsWin.png)
 ![Chris Paul](Images/ChrisPaulMerge.png)
 ![Russell Westbrook](Images/RussellWestbrookMerge.png)
