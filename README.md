@@ -25,7 +25,7 @@ We then used linear regression to see if there was a correlation between a playe
 **Russell Westbrook:**   
 ![Russell Westbrook](Images/RussellWestbrookMerge.png)  
 
-
+**Player Comparison:**  
 ![AstPerTurnover](Images/AstPerTurnover.png)
 ![Blocks](Images/Blocks.png)
 ![Defense](Images/defense.png)
