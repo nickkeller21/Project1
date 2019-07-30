@@ -17,4 +17,4 @@
 
 
        
-![PlusMinus vs Win%.png](Project_final_version/Nick/Images/PlusMinus vs Win%.png)
+![PlusMinus vs Win%.png](Images/PlusMinus vs Win%.png)
