@@ -20,9 +20,9 @@
 Linear Regression was used to first find a correlation between a common player stat (Plus Minus(+/-))  and a players Win Percentage since winning is the goal  
 We then used linear regression to see if there was a correlation between a players +/- and the other stats a player records  
 ![PlusMinusvsWin](Images/PlusMinusvsWin.png)  
-## Chris Paul:  
+**Chris Paul:**  
 ![Chris Paul](Images/ChrisPaulMerge.png)  
-## Russell Westbrook:  
+**Russell Westbrook:   
 ![Russell Westbrook](Images/RussellWestbrookMerge.png)  
 
 
