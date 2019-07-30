@@ -1,8 +1,9 @@
-# The Trade: Paul vs. Westbrook
-## Project members: 'Sanjay Suresh', 'Mitsuko Kitazawa', 'Nicolas Gomez Bustamante', 'Nicholas Keller'
+# The Trade: Paul vs. Westbrook
+## Project members: Sanjay Suresh, Mitsuko Kitazawa, Nicolas Gomez Bustamante, Nicholas Keller
 
 
 **Project objectives:**
+        Determine which stats should be used to compare players.
         Analyze and compare results for Chris Paul and Russel Westbrook. 
         Determine who is the best asset for Houston Rockets. 
 
@@ -12,8 +13,8 @@
        Is trading C. Paul for Westbrook a good deal? 
        
 **Data:** 
-      NBA api nba_api.stats (no key needed)
+      NBA api stats.nba.com (no key needed)
 
 
        
-
+![+/- vs win%](Project1/Project_final_version/Nick/Images/PlusMinus vs Win%.png)
