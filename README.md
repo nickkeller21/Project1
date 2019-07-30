@@ -14,8 +14,7 @@
        
 **Data:** 
       NBA api stats.nba.com (no key needed)
-      
-      This data is recorded by the NBA, so it is therefore the most accurate
+   This data is recorded by the NBA, so it is therefore the most accurate
 
       
 ![PlusMinusvsWin](Images/PlusMinusvsWin.png)
