@@ -17,4 +17,4 @@
 
 
        
-![PlusMinus vs Win%.png](Images/PlusMinus vs Win%.png)
+![Alt](Images/PlusMinus vs Win%.png)
